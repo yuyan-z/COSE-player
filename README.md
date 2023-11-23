@@ -1,6 +1,6 @@
 # COSE-player
 A tool for player the Airline Game automatically.  
-Just for fun... I'm too boring
+If you like this program, plz give me a star ⭐
 
 ## Requirement
 Pycharm 2023.2.1.0  
