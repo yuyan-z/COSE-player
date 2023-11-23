@@ -19,3 +19,5 @@ coseplayer.run(end_year=2)
 coseplayer.repeat(repeat_year=1) # repeat the year
 ```
 3. results are generated in result_yearX.csv
+   ![image](https://github.com/yuyan-z/COSE-player/assets/64955334/9dc046f7-a9a9-4c49-b27b-c6af989ede25)
+
