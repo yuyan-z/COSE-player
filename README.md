@@ -1,5 +1,5 @@
 # COSE-player
-A tool for player the Airline Game automatically.  
+A tool for player [the Airline Game](https://private.lud.io/) automatically.  
 
 PS: If you like this program, plz give me a star ⭐
 
