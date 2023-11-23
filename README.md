@@ -2,7 +2,7 @@
 A tool for player the Airline Game automatically
 
 ## Requirement
-Pycharm 2023.2.1.0
+Pycharm 2023.2.1.0  
 python 3.11.4  
 selenium 3.141.0  
 pandas 2.1.1  
