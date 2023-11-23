@@ -17,3 +17,4 @@ coseplayer.run(end_year=2)
 # repeat the year, use all data in year[repeat].csv
 coseplayer.repeat(repeat_year=1) # repeat the year
 ```
+3. results are generated in result_yearX.csv
