@@ -12,7 +12,7 @@ selenium 3.141.0
 pandas 2.1.1  
 
 ## Example
-1. modify the data for each year in /data/yearX.csv
+1. modify or add the data for each year in /data/yearX.csv
 2. run main.py
 ```
 coseplayer = Coseplayer()
