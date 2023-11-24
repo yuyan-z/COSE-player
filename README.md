@@ -1,6 +1,8 @@
 # COSE-player
 A tool for player [the Airline Game](https://private.lud.io/) automatically.  
 
+Exhaustive search is possible, but it costs to much time. Strategy is still needed.
+
 PS: If you like this program, plz give me a star ⭐
 
 ## Requirement
